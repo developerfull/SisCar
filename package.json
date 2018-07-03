@@ -1,0 +1,19 @@
+{
+  "name": "siscar",
+  "version": "1.0.0",
+  "description": "Sistema voltado para Loja de Carro JS",
+  "main": "challenge-29.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developerfull/SisCar.git"
+  },
+  "author": "Victor Nascimento",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/developerfull/SisCar/issues"
+  },
+  "homepage": "https://github.com/developerfull/SisCar#readme"
+}
